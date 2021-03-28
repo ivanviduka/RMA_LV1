@@ -1,6 +1,6 @@
 # RMA_LV1
 
-Pri pokretanju oba zadatka, u konzoli je potrebno prvu vrijednost dva puta, npr:\
+Pri pokretanju oba zadatka, u konzoli je potrebno prvu vrijednost unijeti dva puta, npr:\
 //program ispisuje\
 Do you want to lock this dice with a value 5? [y/n]\
 //korisnik unosi odgovor\
