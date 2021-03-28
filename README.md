@@ -13,6 +13,6 @@ Dealer has a cards value of 10\
 Do you want another card? [y/n]\
 //korisnik unosi odgovor\
 y\
-y\
+y
 
 Nakon prvog unosa, svi ostali rade normalno (potrebno je samo jednom unijeti odgovor).
